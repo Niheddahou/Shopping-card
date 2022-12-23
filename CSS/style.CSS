@@ -1,0 +1,18 @@
+body {
+ margin: auto;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+.price-quantity{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.button-2{
+  display: flex;
+  gap: 20px;
+  width: 10%;
+}
